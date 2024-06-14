@@ -1,4 +1,3 @@
-postgres
-memcached
-mysql:8.4.0
-mysql:8.0.37
+alpine:latest
+openjdk:8u131-jdk-alpine
+
