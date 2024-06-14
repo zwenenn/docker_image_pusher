@@ -1,3 +1,1 @@
-apache/kafka
-bitnami/kafka
-bitnami/kafka:2.7.0
+elasticsearch
