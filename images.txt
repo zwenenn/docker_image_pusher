@@ -4,4 +4,4 @@
 #支持指定架构
 #--platform=linux/arm64/v8 ubuntu/kafka
 
-apache/rocketmq:5.2.0
+--platform=linux/arm64/v8 apache/rocketmq:5.2.0
