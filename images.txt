@@ -4,7 +4,8 @@
 #支持指定架构
 #--platform=linux/arm64/v8 ubuntu/kafka
 #--platform=linux/arm64 mysql:8.4.0
---platform=linux/arm64 elasticsearch:8.14.3
---platform=linux/arm64 elasticsearch:7.17.22
-
+#--platform=linux/arm64 elasticsearch:8.14.3
+#--platform=linux/arm64 elasticsearch:7.17.22
+--platform=linux/arm64 kibana:8.14.3
+--platform=linux/arm64 kibana:7.17.22
 
