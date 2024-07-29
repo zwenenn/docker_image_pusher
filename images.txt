@@ -8,5 +8,6 @@
 #--platform=linux/arm64 elasticsearch:7.17.22
 #--platform=linux/arm64 kibana:8.14.3
 #--platform=linux/arm64 kibana:7.17.22
---platform=linux/arm64 bitnami/gitlab-runner
+#--platform=linux/arm64 bitnami/gitlab-runner
+--platform=linux/arm64/v8 ubuntu:22.04
 
