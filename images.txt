@@ -10,5 +10,6 @@
 #--platform=linux/arm64 kibana:7.17.22
 #--platform=linux/arm64 bitnami/gitlab-runner
 #--platform=linux/arm64/v8 ubuntu:22.04
---platform=linux/arm64/v8  debian:bullseye-slim
+#--platform=linux/arm64/v8  debian:bullseye-slim
+--platform=linux/arm64 ravermeister/gitlab:17.2.1
 
