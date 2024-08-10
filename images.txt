@@ -6,11 +6,17 @@
 #--platform=linux/arm64 mysql:8.4.0
 #--platform=linux/arm64 elasticsearch:8.14.3
 #--platform=linux/arm64 elasticsearch:7.17.22
+--platform=linux/arm64 elasticsearch:7.17.23
 #--platform=linux/arm64 kibana:8.14.3
 #--platform=linux/arm64 kibana:7.17.22
+--platform=linux/arm64 kibana:7.17.23
 #--platform=linux/arm64 bitnami/gitlab-runner
 #--platform=linux/arm64/v8 ubuntu:22.04
 #--platform=linux/arm64/v8  debian:bullseye-slim
 #--platform=linux/arm64 ravermeister/gitlab:17.2.1
 #--platform=linux/arm64 jenkins/jenkins:lts
---platform=linux/arm64 rancher/rancher:v2.9.0
+#--platform=linux/arm64 rancher/rancher:v2.9.0
+--platform=linux/arm64 logstash:7.17.22
+--platform=linux/arm64 logstash:7.17.23
+
+
