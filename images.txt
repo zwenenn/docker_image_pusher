@@ -18,7 +18,8 @@
 #--platform=linux/arm64 rancher/rancher:v2.9.0
 #--platform=linux/arm64 logstash:7.17.22
 #--platform=linux/arm64 logstash:7.17.23
---platform=linux/arm64 elastic/filebeat:7.17.22
---platform=linux/arm64 elastic/filebeat:7.17.23
+#--platform=linux/arm64 elastic/filebeat:7.17.22
+#--platform=linux/arm64 elastic/filebeat:7.17.23
+--platform=linux/arm64/v8 elastic/filebeat:7.17.22
 
 
