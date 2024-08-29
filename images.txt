@@ -22,4 +22,7 @@
 #--platform=linux/arm64 elastic/filebeat:7.17.23
 #--platform=linux/arm64 elastic/filebeat:8.15.0
 #--platform=linux/arm64 prom/prometheus:v2.54.0
---platform=linux/arm64 grafana/grafana:11.2.0
+#--platform=linux/arm64 grafana/grafana:11.2.0
+--platform=linux/arm64 oliver006/redis_exporter:alpine
+--platform=linux/arm64 prom/mysqld-exporter:latest
+
