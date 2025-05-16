@@ -1,7 +1,8 @@
 #alpine:latest
 #openjdk:8u131-jdk-alpine
 #--platform=linux/arm64/v8 openjdk:8u131-jdk-alpine
---platform=linux/arm64/v8 openjdk:17-jdk-slim
+#--platform=linux/arm64/v8 openjdk:17-jdk-slim
+--platform=linux/amd64 openjdk:17-jdk-slim
 #支持指定架构
 #--platform=linux/arm64/v8 ubuntu/kafka
 #--platform=linux/arm64 mysql:8.4.0
